@@ -7,6 +7,7 @@ public class Pratice {
 	public void demo() {
 		System.out.println("project is started");
 		System.out.Println("Global Option");
-		System.out.Println("Global Option");
+		System.out.Println("Global Option1");
+		
 	}
 }
